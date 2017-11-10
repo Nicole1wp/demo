@@ -1,0 +1,61 @@
+body,dl,img dd,dt {margin: 0;padding: 0;}
+.div {width:1210px;height:100%;}
+.baby {margin:auto;width:1210px;}
+a {text-decoration: none;}
+p {height: 20px;line-height: 20px;text-align: center;}
+.contern {width: 770px;float: left;}
+.contern .math {margin:10px 0;height: 30px;background-color:#F1F7FC;border: 1px solid #CCC;border-right: 1px solid transparent;}
+.contern .math li {font-size:18px;text-align:center;width:63px;line-height: 30px;height: 30px;float: left;border-right:1px solid #CCC; }
+.contern .math li:first-child{background-color:#AACCEE;}
+.contern .chin {margin-top :20px;border: 1px solid #CCC;}
+.contern .vidio {/*height: 260px;*/border: 1px solid #CCC;/*border-top: 1px solid transparent;*/}
+.contern .vidio .zuo {margin-left:10px;width:300px;height:240px;background-color:#545454;color:white;float: left;}
+.contern .vidio .zuo h1 {text-align:center;line-height: 240px;}
+.contern .vidio .you {width:400px;float: right;}
+.contern .vidio .you dl {padding-bottom: 10px ;}
+.contern .vidio .you dl dd,dt {height: 25px;line-height: 25px;}
+
+.rside { width: 380px;height: 100%;margin-top:10px; float: right;overflow: hidden;}
+ .biaoti {height: 35px;background-color: #F1EFF0;}
+ .biaoti h3 {width:85px;text-align:center;line-height: 35px; height: 35px;background-color:#E5AE57;float: left;}
+.baby span {display:block;margin-right:10px;line-height: 35px;float: right;}
+.rside .tutu {height: 160px;padding:10px; border-bottom: 1px dashed #CCC;}
+.rside .tutu li {float: left;width: 50%;}
+.rside .tutu li img {height: 140px;position: center;margin: 0 5px;}
+ .lili li {height: 35px;padding-left: 10px;line-height: 35px;}
+.rside .hezi1 {margin: 10px 0 20px;border: 1px solid #CCC;}
+/*展会1月*/
+.contern .vidio .lie li {float: left;width: 360px;margin: 5px 10px;}
+.contern .vidio .lie li img {float: left;width: 100px;}
+.contern .vidio .lie li dl {float: right;}
+.contern .vidio .lie li dt {margin:5px 0 10px;}
+
+
+
+
+/*高新技术*/
+.rside1 {float: left; width: 300px;}
+.contern1 {float: right; width: 850px;}
+/*.contern1 .tulie {padding: 10px 8px;}*/
+.contern1 .tulie li {float: left;width: 166px; height:100%;padding:10px 15px;overflow: hidden;box-sizing: border-box;}
+.contern1 .tulie li img {height: 170px;}
+.contern1 .tulie li span {display: block;height: 20px;text-align: center;}
+.contern1 .out {width: 412px;float: left;}
+.contern .list {width: 850px;overflow: hidden;}
+
+/*关于我们*/
+.us {width: 980px;height:100%;margin: 6px auto;font-size: 15px;border:1px solid  #CCCCCC;padding: 20px 40px;}
+.us .one {height: 185px;overflow: hidden;margin-bottom: 10px;}
+.us .zuo {float: left;width: 535px;overflow: hidden;}
+ .us h3 {height:40px;line-height:40px;font-size: 25px;color:#333333;padding-bottom: 10px;}
+.us .zuo p {height: 185px;text-align: left;}
+.us .you {float: right; overflow: hidden;}
+.us .you .shipin {width: 365px;height: 185px;box-sizing:border-box;border:5px solid  #D0D0D0; background-color: #E8EFF5;}
+.us .you .shipin  h2{text-align:center;line-height: 160px;font-size: 30px;}
+ .us p {text-align: left;}
+
+ .fuwu {overflow: hidden;height: 300px; margin-top: 10px;}
+ .fuwu h3 {text-align: left; color: #FC8392;}
+ .fuwu ul li {width: 285px;height: 105px;float: left;margin-left: 30px;padding: 25px 10px;box-sizing:border-box;color: white;margin-bottom: 10px;}
+ .fuwu .youshi li {width: 445px;height: 125px;background-color: #F6F6F6;color: #333333;/*margin-left:0px;*/}
+ .fuwu .youshi li p {margin-top: 10px;height: 100%;}
